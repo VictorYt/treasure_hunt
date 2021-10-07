@@ -41,6 +41,6 @@ get your fair share of the prize!
 
 Captain      : Victor Ythier
 Quartermaster: NAME_HERE
-First mate   : Victor Ythier
+First mate   : Victor
 
 
