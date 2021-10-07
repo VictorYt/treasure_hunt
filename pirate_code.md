@@ -1,7 +1,6 @@
 # Pirate code
 
-I.    The Captain and Quartermaster to receive two shares of a prize, the First-mate to
-      receive one share of a prize.
+I.    The Captain, Quartermaster and First-mate to receive equally the prize.
 
 II.   Every man has equal title to the fresh provisions, or strong liquors, and may use
       them at pleasure, unless a scarcity makes it necessary, for the good of all, to vote
@@ -40,7 +39,7 @@ Note to the First mate: make sure you revise article I of the pirate code above,
 get your fair share of the prize!
 
 Captain      : Victor Ythier
-Quartermaster: NAME_HERE
+Quartermaster: Marina Braso Vives
 First mate   : Victor Ythier
 
 
